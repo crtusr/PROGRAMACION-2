@@ -1,13 +1,13 @@
 #include <iostream>
 #include <cstdlib>
-#include "funciones.cpp"
+#include "funciones.h"
 
 using namespace std;
 
 int main()
 {
 	int eleccion;
-	int tablaPuntaje[4][4];
+	int tablaPuntaje[4][4] = {};
 	do
 	{
 		system("cls");
