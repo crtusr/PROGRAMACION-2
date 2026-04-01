@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1774568361 source:c:\users\lucas\documents\c y c++\programacion 2\ejercicio clase3\main.cpp
+	<iostream>
+	"funciones.h"
+
+1774568302 source:c:\users\lucas\documents\c y c++\programacion 2\ejercicio clase3\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1774568308 c:\users\lucas\documents\c y c++\programacion 2\ejercicio clase3\funciones.h
+
